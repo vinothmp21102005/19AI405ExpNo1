@@ -1,6 +1,6 @@
 <h1>ExpNo 1 :Developing AI Agent with PEAS Description</h1>
-<h3>Name:VINOTH M P</h3>
-<h3>Register Number: 212223240182</h3>
+<h3>Name: VINOTH M P </h3>
+<h3>Register Number: 212223240182 </h3>
 
 <h3>AIM:</h3>
 <p>To find the PEAS description for the given AI problem and develop an AI agent.</p>
@@ -39,10 +39,7 @@
 <p>Measure the performance parameters: For each treatment performance incremented, for each movement performance decremented</p>
 
 ##  PROGRAM:
-
-Developing AI Agent with PEAS Description
-Developed by: KARUNIYA M
-RegisterNumber: 212223240068
+```
 
 class VacuumCleanerAgent:
     def __init__(self):
@@ -98,7 +95,7 @@ agent.perform_action("suck")
 agent.print_status()
 agent.perform_action("nothing")
 agent.print_status()
-
+```
 
 ## OUTPUT:
 ![image](https://github.com/user-attachments/assets/29f342cf-e8cd-4a75-b6ac-125d210decb0)
